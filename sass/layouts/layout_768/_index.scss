@@ -1,0 +1,10 @@
+@import "grid_photo";
+
+@media only screen and (min-width: 768px) {
+    main section:not(:last-child) {
+        margin-bottom: 120px;
+    }
+    .architectural h2 {
+        margin-bottom: 80px;
+    }
+}

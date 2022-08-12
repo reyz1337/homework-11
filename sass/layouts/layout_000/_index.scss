@@ -1,0 +1,24 @@
+@import "grid-photo";
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+main {
+    padding: 60px 0;
+}
+
+main section:not(:last-child) {
+    margin-bottom: 60px;
+}
+
+.architectural h2 {
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+    font-family: 'Delius Unicase', cursive;
+    margin-bottom: 40px;
+}

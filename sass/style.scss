@@ -1,0 +1,10 @@
+@import "base/index";
+@import "layouts/layout_000/index";
+@import "layouts/layout_768/index";
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase&family=Oswald:wght@700&family=Roboto:wght@700&display=swap');
+
+* {
+    font-size: 16px;
+    box-sizing: border-box;
+    line-height: 1;
+}
