@@ -383,6 +383,11 @@ main section:not(:last-child) {
     margin-bottom: 80px;
   }
 }
+@media only screen and (max-width: 370px) {
+  .architectural h2 {
+    word-break: break-all;
+  }
+}
 * {
   font-size: 16px;
   box-sizing: border-box;
